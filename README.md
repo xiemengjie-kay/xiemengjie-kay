@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mengjie (Kaylee) Xie
 - 👀 I’m interested in computer science, software development, and web development.
-- 🌱 I’m currently a second-year undergraduate at University of California, Irvine majoring Computer Science and Engineering.
+- 🌱 I’m currently a third-year undergraduate at University of California, Irvine majoring Computer Science and Engineering.
 - 💞️ I’m looking to collaborate on software development and web development.
 - 📫 How to reach me ...
 
