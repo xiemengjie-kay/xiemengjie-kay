@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mengjie (Kaylee) Xie
-- 👀 I’m interested in computer science, software development, and web development.
-- 🌱 I’m currently a third-year undergraduate at University of California, Irvine majoring Computer Science and Engineering.
-- 💞️ I’m looking to collaborate on software development and web development.
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mengjie Xie, and I go by Kaylee.
+- 👀 I’m interested in robotics, embedded systems, and AI.
+- 🌱 I’m currently an incoming MSCS student at Stanford.
+- 💞️ I’m looking to collaborate on fun projects.
+- 📫 How to reach me: xie10mengjie@gmail.com
 
 <!---
 xiemengjie-kay/xiemengjie-kay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
