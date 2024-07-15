@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mengjie Xie, and I go by Kaylee.
-- 👀 I’m interested in robotics, embedded systems, and AI.
+- 👀 I’m interested in Robotics, Embedded Systems, and AI.
 - 🌱 I’m currently an incoming MSCS student at Stanford.
 - 💞️ I’m looking to collaborate on fun projects.
 - 📫 How to reach me: xie10mengjie@gmail.com
